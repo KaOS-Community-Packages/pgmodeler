@@ -7,4 +7,4 @@ Icon=pgmodeler
 StartupNotify=true
 Terminal=false
 Type=Application
-Categories=Database;Development;
+Categories=Application;Development

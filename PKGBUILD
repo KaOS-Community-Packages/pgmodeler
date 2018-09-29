@@ -1,6 +1,3 @@
-# Original Maintainer, Arch Linux (AUR): Marc Cousin (cousinmarc at gmail dot com)
-# Maintainer: Gunther Strube <gstrube@gmail.com>
-
 pkgname=pgmodeler
 pkgver=0.9.2_alpha
 pkgrel=1
