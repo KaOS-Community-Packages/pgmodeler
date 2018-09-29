@@ -1,0 +1,6 @@
+#!/bin/bash
+
+[ ! -d $HOME/.pgmodeler ] && cp -r /etc/pgmodeler $HOME/.pgmodeler
+
+
+/usr/local/bin/pgmodeler
