@@ -25,7 +25,7 @@ sha1sums=('82723c7560aef6ba27502e4addc535a75538920e'
           '8d5edba1b839a61afdc78c4b10df2b92158f4215'
           'c5bb090a1cbb784cd2ec9e1449cac02af2ba6538'
           '4c4e4260f4b2d2d4c154a8fb5cd7060a6585c83a'
-          'b19e826b6fb64429df952780b8519100c65b8383'
+          '432c320d7ca3474e7c735e7e4116c01dedf66f37'
           '448e756999f5770680eb039f590dd61eb6225b34')
 install='pgmodeler.install'
 
