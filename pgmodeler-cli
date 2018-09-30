@@ -2,4 +2,4 @@
 
 [ ! -d $HOME/.pgmodeler ] && cp -r /etc/pgmodeler $HOME/.pgmodeler
 
-/usr/local/bin/pgmodeler-cli
+/opt/pgmodeler/bin/pgmodeler-cli

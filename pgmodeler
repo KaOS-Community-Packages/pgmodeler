@@ -2,5 +2,4 @@
 
 [ ! -d $HOME/.pgmodeler ] && cp -r /etc/pgmodeler $HOME/.pgmodeler
 
-
-/usr/local/bin/pgmodeler
+/opt/pgmodeler/bin/pgmodeler
