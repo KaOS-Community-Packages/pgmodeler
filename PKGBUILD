@@ -1,5 +1,5 @@
 pkgname=pgmodeler
-pkgver=0.9.2_beta
+pkgver=0.9.2_beta2
 pkgrel=1
 pkgdesc="PostgreSQL Database Modeler: an open source CASE tool for modeling PostgreSQL databases"
 
@@ -19,7 +19,7 @@ source=("https://github.com/$pkgname/$pkgname/archive/v${pkgver//_/-}.tar.gz"
         'pgmodeler_dbm.png'
         'pgmodeler.desktop'
     'patch_no_check_update.diff')
-sha1sums=('3355bebc838984e2700289459416edd8d0c5c5b8'
+sha1sums=('96f05d6abc5ece2292c7c96be39ce7bec190e10a'
           'ffe14e0cdd61392303b7edd8fe7a72047d7cb1c7'
           '30d3016d227f1d8d043d3966ec705c04318b93f4'
           'c5bb090a1cbb784cd2ec9e1449cac02af2ba6538'
